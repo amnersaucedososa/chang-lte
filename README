@@ -1,0 +1,49 @@
+CHANG-LTE
+Sistema de registro, login, activacion y recuperacion.
+
+Chang-lte: es un paquete base para crear aplicaciones web, cuenta con registro, login, confirmación o activacion de cuenta via email o codigo, recuperacion de contraseña via email.
+
+
+----------------------	MODULOS --------------------
+
+REGISTRO:
+Login, password encriptado usando sha1 y md5.
+
+ACTIVACIÓN:
+Activación o confirmación de cuenta via email o codigo de confirmación.	
+
+RECUPERACIÓN:
+Recuperación de password, via email.
+
+CONFIGURACIONES:
+El usuario puede cambiar su contraseña.
+
+MODO ADMINISTRADOR:
+	ADMINISTRAR
+	Ver Editar, activar y eliminar usuarios y otros administradores.
+
+
+
+
+	## Mas informacion
+	waptoing7@gmail.com
+
+
+
+
+COMENTARIOS
+Te invito a que dejes un comentario describiendo que tal te pareció el sistema de CHANG-LTE con PHP, te lo agradeceré.
+
+
+
+
+INSTALACIÓN Y SOPORTE TÉCNICO
+El sistema de CHANG-LTE es gratuito y puedes usarlo libremente para uso personal y/o comercial, pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. 
+
+Si deseas contratar el servicio de soporte técnico para el sistema de CHANG-LTE debes enviar un E-mail a: waptoing7@gmail.com, con el asunto "Soporte CHANG-LTE", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
+
+
+
+
+An production by Abisoft
+http://github.com/amnersaucedososa
